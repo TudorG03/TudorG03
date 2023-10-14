@@ -2,13 +2,13 @@
 
 🛠️ Technical Stack
 
-🌐 HTML | CSS & Sass | JavaScript (ES6+) | ReactJs | jQuery <br>
+🌐 HTML | CSS, Sass & Bootstrap | JavaScript (ES6+) | ReactJs | jQuery <br>
 **</>** C/C++ | Python 3 <br>
 🖥️ Linux and bash scripting <br>
 
 In my programming odyssey, I've honed my skills in various languages and technologies. <br>
 Whether it's building web applications with HTML, CSS, JavaScript, and React, or diving into the world of algorithms in C/C++, <br>
-I've had the privilege of exploring diverse landscapes. :-
+I've had the privilege of exploring diverse landscapes. 
 
 🌱 I’m Currently 
 
