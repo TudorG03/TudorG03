@@ -1,4 +1,4 @@
-##My name is Tudor Gheorghiu, and I'm here to share my passion for writing code and solving problems in the digital realm.
+**My name is ✨Tudor Gheorghiu✨, and I'm here to share my passion for writing code and solving problems in the digital realm.**
 
 🛠️ Technical Stack
 
@@ -29,8 +29,8 @@ Freelance projects. <br>
 
 📫 How to Reach Me <br>
 
-📧 Email: tudi.gheorghiu@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/tudor-gheorghiu-80b1a6217/ 
+📧 Email: tudi.gheorghiu@gmail.com <br>
+💼 LinkedIn: https://www.linkedin.com/in/tudor-gheorghiu-80b1a6217/ <br>
 Let's connect and make something awesome together! 🚀
 
 <!--
