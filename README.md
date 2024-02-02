@@ -13,11 +13,11 @@ I've had the privilege of exploring diverse landscapes.
 🌱 I’m Currently 
 
 **Improving on:** <br>
-ReactJS | Redux | React Router <br>
-Firebase | Node <br>
+ReactJS | Redux | Node <br>
+C++ | OOP <br>
 
 **Learning:** <br>
-Mongo DB | Oracle SQL | Typescript <br>
+Java | C# | Oracle SQL <br>
 
 **⭐ Future Path:** <br>
 Cyber Security & Ethical Hacking <br>
