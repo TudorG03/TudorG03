@@ -1,49 +1,36 @@
-**My name is ✨Tudor Gheorghiu✨, and I'm here to share my passion for writing code and solving problems in the digital realm.**
+# Hi, I'm Tudor Gheorghiu 👋
 
-🛠️ Technical Stack
+Security-minded software engineer with a backend bent. I hold a BSc in Economic Informatics and I'm currently pursuing an MSc in **IT&C Security** at ASE Bucharest — these days I spend most of my time somewhere between **enterprise Java** and **cryptography**.
 
-🌐 HTML | CSS, Sass & Bootstrap | JavaScript (ES6+) | ReactJs | jQuery <br>
-**</>** C/C++ | Python 3 <br>
-🖥️ Linux and bash scripting <br>
+I like systems I can reason about end to end: a clean Spring Boot service, a well-laid-out Linux box, an algorithm that does exactly what the math says it should.
 
-In my programming odyssey, I've honed my skills in various languages and technologies. <br>
-Whether it's building web applications with HTML, CSS, JavaScript, and React, or diving into the world of algorithms in C/C++, <br>
-I've had the privilege of exploring diverse landscapes. 
+---
 
-🌱 I’m Currently 
+### 🛠️ Stack
 
-**Improving on:** <br>
-ReactJS | Redux | Node <br>
-C++ | OOP <br>
+**Languages** — Java · TypeScript / JavaScript · C / C++ · Python
 
-**Learning:** <br>
-Java | C# | Oracle SQL <br>
+**Backend** — Spring Boot · Jakarta EE · REST · Node.js / Express
 
-**⭐ Future Path:** <br>
-Cyber Security & Ethical Hacking <br>
+**Data** — PostgreSQL · MongoDB · Redis
 
-🤝 I'm Open to Collaborate on <br>
+**Infra & DevOps** — Docker / Podman · AWS · Terraform · GitHub Actions · Linux (Fedora)
 
-Open-source projects. <br>
-Freelance projects. <br>
+**Frontend** — React · React Native
 
-📫 How to Reach Me <br>
+**Focus areas** — Applied cryptography · Post-quantum crypto · Secure system design
 
-📧 Email: tudi.gheorghiu@gmail.com <br>
-💼 LinkedIn: https://www.linkedin.com/in/tudor-gheorghiu-80b1a6217/ <br>
-Let's connect and make something awesome together! 🚀
+---
 
-<!--
-**TudorG03/TudorG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐧 Off the clock
 
-Here are some ideas to get you started:
+Fedora power user living in the terminal (Neovim, tmux, the usual suspects), tinkering with Wayland tiling setups and self-hosting on a small VPS. Occasionally chasing Proton compatibility for the sake of a good game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Reach me
+
+- **Email** — [tudi.gheorghiu@gmail.com](mailto:tudi.gheorghiu@gmail.com)
+- **LinkedIn** — [tudor-gheorghiu](https://www.linkedin.com/in/tudor-gheorghiu-80b1a6217/)
+
+Always up for a good conversation about backend architecture, security, or why your distro choice is wrong. Let's build something.
